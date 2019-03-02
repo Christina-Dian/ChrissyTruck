@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d490ef333d3dca4b85b311015a6297e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bbNoObstArea: {fileID: 7970081703941232093, guid: c12c05875ae748743aa32dfc6047fe20,
+      type: 3}
+  - bbMidPitArea: {fileID: 6256787841893771587, guid: 2e7c295d28c1eec4ea44fc926d2390f2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
